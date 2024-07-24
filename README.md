@@ -125,4 +125,3 @@ python manage.py runserver
 
 - [Daniil Miroshnichenko]([https://github.com/yourusername](https://github.com/daniilmir3105))
 
-```
